@@ -4,7 +4,7 @@ set -euo pipefail
 
 echo "Running end-to-end tests..."
 
-for i in {1..10}; do
+for i in {1..5}; do
     echo -n "."
     sleep 1
 done
